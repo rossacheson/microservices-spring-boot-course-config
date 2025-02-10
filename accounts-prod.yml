@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts-contact:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Arwen Klay - Product Owner"
     email: "{cipher}8d80f155a4a2e7917bd8d96ea691aa2f9d25a1859e384712f01037a175634e0855ab739d61901dddd0e510f220d09456"

@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards-contact:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "Paul Atreides - Product Owner"
     email: "paul@eazybank.com"
