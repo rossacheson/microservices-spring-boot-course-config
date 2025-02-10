@@ -5,7 +5,7 @@ accounts-contact:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "Ray Smith - QA Lead"
-    email: "ray@eazybank.com"
+    email: "{cipher}27fd9f4eb94b4bb3aec2e31a647af231d9bfcac9366a34d5232cfe4b10656ff226669e05651706121c78342755074d7b"
   onCallSupport:
     - (444) 444-1234
     - (444) 523-1345
