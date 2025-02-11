@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts-contact:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to EazyBank accounts related dev APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}10f2a7f5e455c2a5c7b96fde30727eaa23ac39393b76fba8a33f5d44cffd51a78faa048fa58cfc81ce5f65be0982d31c"
